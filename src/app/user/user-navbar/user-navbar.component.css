@@ -1,0 +1,12 @@
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    
+}
+.active-link{
+    font-weight: bold;
+}
+.nav-item{
+    font-size: 22px;
+}

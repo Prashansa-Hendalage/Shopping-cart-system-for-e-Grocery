@@ -1,0 +1,10 @@
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.footer{
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
+   
+}

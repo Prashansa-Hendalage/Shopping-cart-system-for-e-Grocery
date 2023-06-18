@@ -1,0 +1,28 @@
+.banner{
+    background-image: url('../../../assets/image/bannerimg3.jpg');
+    height: 600px;
+    background-position: center top;
+    background-size: cover;
+}
+.content{
+    top:45%;
+    left:7%;
+    position: absolute;
+
+}
+
+.banner h1{
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.content a{
+    text-decoration: none;
+    background-color:orangered;
+    padding: 6px 6px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    
+}
